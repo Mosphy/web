@@ -1,0 +1,15 @@
+文件夹名和文件名使用小写、不带空格、用连字符分隔单词
+文件路径
+	同级目录	./文件名或直接输入文件名
+	上级目录	../文件名
+	下级目录	/目录名/文件名
+	这些寻址方式可以叠加
+CLI命令行接口
+Windows Subsystem for Linux (WSL, Ubuntu) 
+在 Glitch.com 上测试终端命令
+快速浏览特定终端命令的一个很好的资源是 tldr.sh
+|管道命令连接多个命令
+安全字体	https://web.mit.edu/jmorzins/www/fonts.html
+在 HTML 中，<!-- 和 --> 之间的任何内容都是 HTML 注释
+CSS 文档中所有位于 /* 和 */ 之间的内容都是 CSS 注释
+JavaScript注释与C相同
